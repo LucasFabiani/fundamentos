@@ -1,2 +1,3 @@
 # Fundamentos
-Un compile de fundamentos de programacion de la UCC
+Una compilacion de ejercicios de fundamentos de programacion de la UCC
+Mas proyectos random
