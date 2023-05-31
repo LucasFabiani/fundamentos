@@ -1,0 +1,11 @@
+deactivate spell checker codeblocks
+    Open Code::Blocks.
+    Go to plugins -> Manage Plugins.
+    Select Spell Checker and disable it.
+
+CERRAR SESION EN GIT BASH
+git config --global --unset user.name
+git config --global --unset user.email
+
+o bien
+git config --global --unset-all
